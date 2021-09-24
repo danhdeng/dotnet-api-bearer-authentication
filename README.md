@@ -16,3 +16,7 @@ dotnet add package Microsoft.extensions.configuration
 dotnet add package Microsoft.extensions.configuration.Binder
 dotnet add package Microsoft.extensions.configuration.Json
 dotnet add package Microsoft.Identity.Client
+
+# access the api swagger
+
+https://localhost:5001/swagger/index.html
